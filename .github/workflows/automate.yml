@@ -1,4 +1,4 @@
-name: Test case
+name: Test app
 
 on:
   push:
