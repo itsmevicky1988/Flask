@@ -1,0 +1,6 @@
+flask
+numpy
+pandas
+scikit-learn
+Flask=3.0.3
+pytest
